@@ -20,10 +20,6 @@
   box-sizing: border-box;
 }
 
-header, h1, nav, .list-comment {
-  font-family: 'Kaushan', cursive, sans-serif;
-}
-
 header {
   width: 90%;
   padding: 15px 0;
@@ -101,13 +97,13 @@ main {
   padding: 16px 24px;
   margin: 16px 0px;
 }
- 
+
 .flash-message.notice {
   background-color: #bcdfff;
   color: #0067C0;
   border: solid 1px #0067C0;
 }
- 
+
 .flash-message.alert {
   background-color: #ffd4d1;
   color: #930403;
